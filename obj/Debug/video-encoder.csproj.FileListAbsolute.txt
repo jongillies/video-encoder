@@ -1,0 +1,6 @@
+C:\Users\Jon\repos\github\jongillies\video-encoder\bin\Debug\video-encoder.exe.config
+C:\Users\Jon\repos\github\jongillies\video-encoder\bin\Debug\video-encoder.exe
+C:\Users\Jon\repos\github\jongillies\video-encoder\bin\Debug\video-encoder.pdb
+C:\Users\Jon\repos\github\jongillies\video-encoder\obj\Debug\video-encoder.csprojResolveAssemblyReference.cache
+C:\Users\Jon\repos\github\jongillies\video-encoder\obj\Debug\video-encoder.exe
+C:\Users\Jon\repos\github\jongillies\video-encoder\obj\Debug\video-encoder.pdb
